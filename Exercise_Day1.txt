@@ -1,1 +1,27 @@
+Scenario 1: RDD Operations
+
+Exercise:
+
+Load the employees.csv dataset into an RDD.
+Filter the RDD to get only the employees who joined after the year 2010.
+Map the RDD to get only the names of the filtered employees.
+Count the number of employees who joined after 2010.
+
+
+Scenario 2: DataFrame Operations
+
+Exercise:
+
+Load the employees.csv dataset into a DataFrame.
+Filter the DataFrame to get only the employees who work in the 'Engineering' department.
+Group the employees by department and count the number of employees in each department.
+
+Scenario 3: SQL Operations
+
+Exercise:
+
+Register the employees.csv dataset as a temporary table.
+Write an SQL query to select the names of employees who earn more than $100,000.
+Write an SQL query to find the average salary of employees in each department.
+
 
